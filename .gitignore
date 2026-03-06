@@ -1,0 +1,21 @@
+ven
+# Databases
+unt_data.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# OS files
+.DS_Store
+
+# Generated Reports
+*_report.xlsx
+outputs/
+
+# Environment
+.env
